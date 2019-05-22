@@ -2,7 +2,7 @@
 
 Ce projet fait référence à l'article : [TODO](#)
 
-Démonstration du site : [https://github.com/ineat/hummingbird](https://github.com/ineat/hummingbird)
+Démonstration du site : [https://ineat.github.io/hummingbird](https://ineat.github.io/hummingbird)
 
 ## Commencer
 
