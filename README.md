@@ -1,6 +1,6 @@
 # Démonstration _Flutter for web_
 
-Ce projet fait référence à l'article : [TODO](#)
+Ce projet fait référence à l'article : [https://blog.ineat-conseil.fr/2019/05/creer-son-premier-site-web-avec-flutter/](https://blog.ineat-conseil.fr/2019/05/creer-son-premier-site-web-avec-flutter/)
 
 Démonstration du site : [https://ineat.github.io/hummingbird](https://ineat.github.io/hummingbird)
 
