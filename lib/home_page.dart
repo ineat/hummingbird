@@ -390,32 +390,3 @@ class NosMetiers extends StatelessWidget {
     );
   }
 }
-
-class FirstSession extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Session(
-      primary: true,
-      child: GridSession(
-        firstChild: Column(
-          children: <Widget>[
-            Text(
-              "Découvrez",
-              style: TextStyle(color: Colors.white),
-            ),
-            Text(
-              "NOS MÉTIERS",
-              style: TextStyle(color: Colors.white),
-            ),
-            Text(
-              "INEAT répond à tout un panel de services pour mener à bien votre projet. Que vous souhaitiez créer ou redesigner votre site web vitrine ou e-commerce, développer une application mobile, un CRM, ou encore mettre en place une stratégie client ou marketing, … Nous adaptons nos savoir-faire, pour faire de votre projet UNE RÉUSSITE",
-              style: TextStyle(color: Colors.white),
-            ),
-          ],
-        ),
-        secondChild: Text("SECOND"),
-        isVerticalReversed: true,
-      ),
-    );
-  }
-}
